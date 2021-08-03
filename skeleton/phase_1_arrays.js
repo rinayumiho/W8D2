@@ -32,10 +32,14 @@ Array.prototype.transpose = function() {
     return array;
 }
 
-console.log([1,2,2,3,3,3].uniq())
 
-console.log([1,-2,2,-3,-3,3].twoSum())
-x = [[1,2,3],[4,5,6]]
 
-console.log(x.transpose())
-console.log(x)
+// console.log([1,2,2,3,3,3].uniq())
+
+// console.log([1,-2,2,-3,-3,3].twoSum())
+// x = [[1,2,3],[4,5,6]]
+
+// console.log(x.transpose())
+// console.log(x)
+
+
